@@ -1,0 +1,8 @@
+[build-options]
+observabilityIncluded = true
+
+[package]
+distribution = "2201.8.5"
+name = "cwcs_service"
+org = "cliffrange"
+version = "0.0.1"
